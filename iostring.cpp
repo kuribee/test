@@ -52,4 +52,6 @@ int main4()
 	{
 		throw std::runtime_error("strStream is corrupted");
 	}
+
+	return 0;
 }
